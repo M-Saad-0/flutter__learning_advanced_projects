@@ -246,5 +246,4 @@
 
 50. **Custom "Dark Mode" Theme Switcher with Animation:**
     * **What it is:** A visually appealing and animated toggle for switching between light and dark themes, with smooth transitions.
-    * **Skills:** `ThemeData`, `MaterialApp.router` (for theme changes), `AnimatedCrossFade`, `AnimatedOpacity`, `TweenAnimationBuilder`.#   f l u t t e r _ _ l e a r n i n g _ a d v a n c e d _ p r o j e c t s  
- 
+    * **Skills:** `ThemeData`, `MaterialApp.router` (for theme changes), `AnimatedCrossFade`, `AnimatedOpacity`, `TweenAnimationBuilder`.
